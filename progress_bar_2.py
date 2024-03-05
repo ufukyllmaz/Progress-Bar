@@ -1,3 +1,10 @@
+"""
+Retrieved from : Progress Bar Simulation, by Al Sweigart al@inventwithpython.com
+ 2. A sample progress bar animation that can be used in other programs.
+ 3. View this code at https://nostarch.com/big-book-small-python-projects
+ 4. Tags: tiny, module
+"""
+
 import random
 import time
 
