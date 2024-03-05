@@ -1,6 +1,6 @@
 class ProgressBar:
   """
-  This class print screen the progress bar.
+  This class return the progress bar.
   """
   def __init__(self, progress_bar_count, process_bar_size):
     self.progress_bar_count = progress_bar_count
